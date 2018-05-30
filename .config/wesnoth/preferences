@@ -1,0 +1,96 @@
+allow_observers=yes
+ally_sighted_interrupts=yes
+animate_map=yes
+animate_water=yes
+ask_delete=yes
+auto_save_max=10
+blindfold_replay=no
+campaign_server="add-ons.wesnoth.org"
+chat_lines=6
+chat_timestamp=no
+color_cursors=yes
+delete_saves=yes
+disable_auto_moves=no
+draw_delay=-1
+enable_planning_mode_on_start=no
+encountered_terrain_list="Aa^Fda, Aa^Fpa, Aa^Vha, Aa, Ai, At, Ce^Es, Ce, Ch, Cha, Chr, Chs, Chw, Co^Es, Co, Ct, Cud, Cv, Dd, Ds^Es, Ds, Dt, Ft, Gd^Edp, Gd^Em, Gd^Es, Gd^Fdf, Gd^Fds, Gd^Fdw, Gd^Fet, Gd^Fmf, Gd^Fms, Gd^Fmw, Gd^Fp, Gd^Vc, Gd^Ve, Gd^Vh, Gd^Vhc, Gd^Vhh, Gd^Vht, Gd^Vl, Gd^Vo, Gd, Gg^Efm, Gg^Em, Gg^Es, Gg^Fet, Gg^Fms, Gg^Fp, Gg^Gvs, Gg^Uf, Gg^Vc, Gg^Vct, Gg^Ve, Gg^Vh, Gg^Vht, Gg^Vl, Gg, Gll^Efm, Gll^Em, Gll^Es, Gll^Fdf, Gll^Fds, Gll^Fdw, Gll^Fet, Gll^Fmf, Gll^Fms, Gll^Fmw, Gll^Fp, Gll^Fpa, Gll^Vh, Gll^Vht, Gll^Vl, Gll^Vo, Gll, Gs^Edb, Gs^Edp, Gs^Eff, Gs^Efm, Gs^Em, Gs^Es, Gs^Fdf, Gs^Fds, Gs^Fdw, Gs^Fet, Gs^Fmf, Gs^Fms, Gs^Fmw, Gs^Fp, Gs^Uf, Gs^Vc, Gs^Ve, Gs^Vh, Gs^Vhc, Gs^Vhcr, Gs^Vht, Gs^Vl, Gs^Vo, Gs^Wm, Gs, Gt, Ha, Hh^Fds, Hh^Fms, Hh^Fmw, Hh^Fp, Hh^Uf, Hh^Vc, Hh^Vhh, Hh, Hhd^Vc, Hhd^Vo, Hhd, Ht, Ior^Eb, Ior^Ebn, Ior^Es, Ior, Ke, Kh, Kha, Khr, Ko, Kud, Kv, Mm^Vc, Mm^Vhh, Mm^Xm, Mm, Ms, Mt, Ql, Qt, Qxe, Qxu, Rb^Dr, Rb^Edp, Rb^Em, Rb^Es, Rb^Fds, Rb^Fp, Rb^Gvs, Rb^Uf, Rb^Vo, Rb, Rd^Es, Rd^Fet, Rd^Fp, Rd^Ii, Rd^Vh, Rd, Re^Edb, Re^Eff, Re^Em, Re^Es, Re^Fds, Re^Fms, Re^Fp, Re^Gvs, Re^Uf, Re^Vct, Re^Ve, Re^Vh, Re^Vhc, Re^Vhhr, Re^Vl, Re, Rp^Vhc, Rp, Rr^Eb, Rr^Es, Rr^Ii, Rr^Vh, Rr^Vhc, Rr, Ss^Es, Ss^Vhs, Ss, St, Uft, Uh, Ur, Ut, Uu^Em, Uu^Es, Uu^Ii, Uu^Uf, Uu^Vu, Uu^Vud, Uu^Xo, Uu, Vt, Wdt, Wo^Bw/, Wo^Bw\, Wo^Bw|, Wo, Wot, Wrt, Wst, Ww^Bsb/, Ww^Bsb|, Ww^Bw/, Ww^Bw\, Ww^Bw|, Ww^Ewf, Ww^Vm, Ww, Wwf^Es, Wwf, Wwg^Bw/, Wwg^Bw\, Wwg^Bw|, Wwg^Ewf, Wwg, Wwr, Wwt, Xol, Xos, Xt, Xu, Xuc"
+encountered_units="Arch Mage,Assassin,Bandit,Blood Bat,Bone Shooter,Bowman,Cavalier,Cavalryman,Chocobone,Commander,Dark Adept,Dark Sorcerer,Deathblade,Dragoon,Drake Blademaster,Drake Burner,Drake Clasher,Drake Fighter,Drake Glider,Drake Warrior,Duelist,Dwarvish Fighter,Dwarvish Guardsman,Dwarvish Thunderer,Dwarvish Ulfserker,Elder Mage,Elvish Archer,Elvish Avenger,Elvish Captain,Elvish Champion,Elvish Druid,Elvish Fighter,Elvish Hero,Elvish High Lord,Elvish Lord,Elvish Marksman,Elvish Marshal,Elvish Outrider,Elvish Ranger,Elvish Rider,Elvish Scout,Elvish Shaman,Elvish Sharpshooter,Elvish Shyde,Elvish Sorceress,Eyestalk,Fencer,Fighter,Footpad,Ghost,Ghoul,Giant Scorpion,Goblin Knight,Goblin Pillager,Goblin Spearman,Grand Knight,Gryphon Master,Gryphon Rider,Heavy Infantryman,Horseman,Horseman Commander,Infantry Commander,Infantry Lieutenant,Iron Mauler,Javelineer,Junior Commander,Knight,Lancer,Lich,Lieutenant,Longbowman,Lord,Mage,Mage of Light,Master Bowman,Mermaid Initiate,Merman Fighter,Merman Hunter,Merman Netcaster,Merman Spearman,Merman Warrior,Mounted General,Naga Fighter,Naga Warrior,Ogre,Orcish Archer,Orcish Assassin,Orcish Crossbowman,Orcish Grunt,Orcish Slayer,Orcish Sovereign,Orcish Warlord,Orcish Warrior,Outlaw,Peasant,Pikeman,Poacher,Princess,Quintain,Red Mage,Revenant,Rogue,Royal Guard,Ruffian,Saurian Ambusher,Saurian Augur,Saurian Skirmisher,Sea Orc,Shadow,Silver Mage,Skeleton,Skeleton Archer,Soulless,Spearman,Swordsman,Thief,Thug,Trapper,Troll,Troll Hero,Troll Rocklobber,Troll Warrior,Troll Whelp,Vampire Bat,Walking Corpse,White Mage,Wolf Rider,Wose,Wraith"
+floating_labels=yes
+grid=no
+hide_whiteboard=no
+idle_anim=yes
+idle_anim_rate=0
+lobby_whisper_friends_only=no
+login="@chris@"
+mp_countdown=no
+mp_countdown_action_bonus=13
+mp_countdown_init_time=270
+mp_countdown_reservoir_time=330
+mp_countdown_turn_bonus=60
+mp_era="era_default"
+mp_fog=yes
+mp_level="multiplayer_Fallenstar_Lake"
+mp_level_type=0
+mp_modifications=""
+mp_random_start_time=no
+mp_server_warning_disabled=2
+mp_shroud=no
+mp_turns=100
+mp_use_map_settings=yes
+mp_village_gold=2
+mp_village_support=1
+mp_xp_modifier=70
+music=yes
+random_faction_mode="Independent"
+registered_users_only=no
+remember_password=no
+save_replays=yes
+scroll=50
+scroll_threshold=10
+show_haloes=yes
+show_side_colors=yes
+shuffle_sides=no
+skip_ai_moves=no
+skip_mp_replay=no
+sound=yes
+sp_modifications=""
+stop_music_in_background=no
+turbo=no
+turbo_speed=2
+turn_bell=yes
+turn_dialog=no
+unit_standing_animations=yes
+xresolution=1280
+yresolution=800
+[options]
+[/options]
+[completed_campaigns]
+	[campaign]
+		difficulty_levels="NORMAL"
+		name=""
+	[/campaign]
+	[campaign]
+		difficulty_levels="NORMAL"
+		name="An_Orcish_Incursion"
+	[/campaign]
+	[campaign]
+		difficulty_levels="NORMAL"
+		name="The_South_Guard"
+	[/campaign]
+	[campaign]
+		difficulty_levels="EASY"
+		name="Two_Brothers"
+	[/campaign]
+[/completed_campaigns]
+[history]
+	[addon_connect_history]
+		[line]
+			message="add-ons.wesnoth.org"
+		[/line]
+	[/addon_connect_history]
+	[mp_user_name_history]
+		[line]
+			message="chris"
+		[/line]
+	[/mp_user_name_history]
+[/history]

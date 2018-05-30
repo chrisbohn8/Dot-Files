@@ -1,0 +1,30 @@
+sw_volume: 100
+audio_device_state:1:mpd alsamixer-output
+audio_device_state:1:toggle_visualizer
+state: stop
+current: 2
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:OutKast - Aquemini (1998)/01 - Hold On, Be Strong.mp3
+1:OutKast - Aquemini (1998)/02 - Return Of The 'G'.mp3
+2:OutKast - Aquemini (1998)/03 - Rosa Parks.mp3
+3:OutKast - Aquemini (1998)/05 - Aquemini.mp3
+4:OutKast - Aquemini (1998)/06 - Synthesizer.mp3
+5:OutKast - Aquemini (1998)/07 - Slump.mp3
+6:OutKast - Aquemini (1998)/08 - West Savannah.mp3
+7:OutKast - Aquemini (1998)/09 - Da Art Of Storytellin' (Part 1).mp3
+8:OutKast - Aquemini (1998)/10 - Da Art Of Storytellin' (Part 2).mp3
+9:OutKast - Aquemini (1998)/11 - Mamacita.mp3
+10:OutKast - Aquemini (1998)/12 - SpottieOttieDopaliscious.mp3
+11:OutKast - Aquemini (1998)/04 - Skew It On The Bar-B.mp3
+12:OutKast - Aquemini (1998)/13 - Y'All Scared.mp3
+13:OutKast - Aquemini (1998)/14 - Nathaniel.mp3
+14:OutKast - Aquemini (1998)/15 - Liberation.mp3
+15:OutKast - Aquemini (1998)/16 - Chonkyfire.mp3
+playlist_end
