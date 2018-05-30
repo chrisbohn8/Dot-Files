@@ -17,7 +17,7 @@ Basics
 ![vim](images/vim.png)
 
 ### Nerd Flex (Neofetch)
-![neofetch](images/neofetch.png
+![neofetch](images/neofetch.png)
 
 ### Music Player (MPD + NCMPCPP)
 ![ncmpcpp](images/ncmpcpp.png)
