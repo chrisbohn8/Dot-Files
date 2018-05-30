@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/chris/.ncmpcpp'
+let g:netrw_dirhist_2='/home/chris/Documents/blog'
+let g:netrw_dirhist_3='/home/chris/Documents/Jekyll-Blog/assets'
+let g:netrw_dirhist_4='/home/chris/Documents/jekyll-theme-massively-src-master/_layouts'
+let g:netrw_dirhist_5='/home/chris/.ncmpcpp'
+let g:netrw_dirhist_6='/etc/NetworkManager/system-connections'
+let g:netrw_dirhist_7='/home/chris/Documents/Portfolio'
